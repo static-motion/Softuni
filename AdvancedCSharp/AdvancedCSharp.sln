@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.LabEx", "1.LabEx\1.LabEx.csproj", "{2647609D-CFB4-4484-BEA8-50B1B1BD0C06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionMethodsLab", "ExtentionMethodsLab\ExtentionMethodsLab.csproj", "{7829B9E6-40AB-438B-B2D4-EC9D99522677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2647609D-CFB4-4484-BEA8-50B1B1BD0C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2647609D-CFB4-4484-BEA8-50B1B1BD0C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2647609D-CFB4-4484-BEA8-50B1B1BD0C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2647609D-CFB4-4484-BEA8-50B1B1BD0C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7829B9E6-40AB-438B-B2D4-EC9D99522677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7829B9E6-40AB-438B-B2D4-EC9D99522677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7829B9E6-40AB-438B-B2D4-EC9D99522677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7829B9E6-40AB-438B-B2D4-EC9D99522677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

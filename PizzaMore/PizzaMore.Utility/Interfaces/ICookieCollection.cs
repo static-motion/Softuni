@@ -1,0 +1,19 @@
+﻿using System.Collections.Generic;
+
+namespace PizzaMore.Utility.Interfaces
+{
+    public interface ICookieCollection : IEnumerable<Cookie>
+    {
+        Dictionary<string, Cookie> Cookies { get; }
+
+        void AddCookie(Cookie cookie);
+
+        void RemoveCookie(string cookieName);
+
+        bool ContainsKey(string key);
+
+        int Count { get; }
+
+        Cookie this[string key] { get; }
+    }
+}

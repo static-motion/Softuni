@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReverseString", "01.ReverseString\01.ReverseString.csproj", "{17C1CB26-4278-438A-928A-9F076A5DDDB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.StringLength", "02.StringLength\02.StringLength.csproj", "{4D2D79C6-0A02-4214-A86F-E0F095A1271C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CountSubstringOccurrences", "03.CountSubstringOccurrences\03.CountSubstringOccurrences.csproj", "{575755D5-832A-4C9A-A942-3F35D137EF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.TextFilter", "04.TextFilter\04.TextFilter.csproj", "{0E2F1587-34E1-438B-8EEF-2E90D4B36943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.UnicodeCharacters", "05.UnicodeCharacters\05.UnicodeCharacters.csproj", "{8314AB59-DF06-4E08-9518-1F92893D278F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Palindromes", "06.Palindromes\06.Palindromes.csproj", "{8B1743DE-3629-4C5A-9707-93D2ACA87C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.LettersChangeNumbers", "07.LettersChangeNumbers\07.LettersChangeNumbers.csproj", "{11178B12-D4E5-4F98-9211-7A96C789C59A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C1CB26-4278-438A-928A-9F076A5DDDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C1CB26-4278-438A-928A-9F076A5DDDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C1CB26-4278-438A-928A-9F076A5DDDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C1CB26-4278-438A-928A-9F076A5DDDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2D79C6-0A02-4214-A86F-E0F095A1271C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2D79C6-0A02-4214-A86F-E0F095A1271C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2D79C6-0A02-4214-A86F-E0F095A1271C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2D79C6-0A02-4214-A86F-E0F095A1271C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575755D5-832A-4C9A-A942-3F35D137EF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575755D5-832A-4C9A-A942-3F35D137EF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575755D5-832A-4C9A-A942-3F35D137EF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575755D5-832A-4C9A-A942-3F35D137EF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2F1587-34E1-438B-8EEF-2E90D4B36943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2F1587-34E1-438B-8EEF-2E90D4B36943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2F1587-34E1-438B-8EEF-2E90D4B36943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2F1587-34E1-438B-8EEF-2E90D4B36943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8314AB59-DF06-4E08-9518-1F92893D278F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8314AB59-DF06-4E08-9518-1F92893D278F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8314AB59-DF06-4E08-9518-1F92893D278F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8314AB59-DF06-4E08-9518-1F92893D278F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1743DE-3629-4C5A-9707-93D2ACA87C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1743DE-3629-4C5A-9707-93D2ACA87C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1743DE-3629-4C5A-9707-93D2ACA87C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1743DE-3629-4C5A-9707-93D2ACA87C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11178B12-D4E5-4F98-9211-7A96C789C59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11178B12-D4E5-4F98-9211-7A96C789C59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11178B12-D4E5-4F98-9211-7A96C789C59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11178B12-D4E5-4F98-9211-7A96C789C59A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

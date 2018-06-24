@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfCoins", "ConsoleApp1\SumOfCoins.csproj", "{D8E73114-82E7-44D8-B204-B7BF26D6798F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionalKnapsack", "FractionalKnapsack\FractionalKnapsack.csproj", "{7CC27092-41A1-465A-AC7C-247CDF93D0E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessorScheduling", "ProcessorScheduling\ProcessorScheduling.csproj", "{1611D62C-6D6E-47C0-81D3-55333E0E7B85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ps02", "ps02\ps02.csproj", "{CFF040DE-3456-476C-A01F-82B253B5917E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestLectures", "BestLectures\BestLectures.csproj", "{02B900DC-39FD-448F-A030-A420611D9A00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightTour", "KnightTour\KnightTour.csproj", "{250C6CB0-DAC4-45A1-924A-191A3220C864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8E73114-82E7-44D8-B204-B7BF26D6798F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E73114-82E7-44D8-B204-B7BF26D6798F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E73114-82E7-44D8-B204-B7BF26D6798F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E73114-82E7-44D8-B204-B7BF26D6798F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC27092-41A1-465A-AC7C-247CDF93D0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC27092-41A1-465A-AC7C-247CDF93D0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC27092-41A1-465A-AC7C-247CDF93D0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC27092-41A1-465A-AC7C-247CDF93D0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1611D62C-6D6E-47C0-81D3-55333E0E7B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1611D62C-6D6E-47C0-81D3-55333E0E7B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1611D62C-6D6E-47C0-81D3-55333E0E7B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1611D62C-6D6E-47C0-81D3-55333E0E7B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF040DE-3456-476C-A01F-82B253B5917E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF040DE-3456-476C-A01F-82B253B5917E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF040DE-3456-476C-A01F-82B253B5917E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF040DE-3456-476C-A01F-82B253B5917E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B900DC-39FD-448F-A030-A420611D9A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B900DC-39FD-448F-A030-A420611D9A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B900DC-39FD-448F-A030-A420611D9A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B900DC-39FD-448F-A030-A420611D9A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250C6CB0-DAC4-45A1-924A-191A3220C864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250C6CB0-DAC4-45A1-924A-191A3220C864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250C6CB0-DAC4-45A1-924A-191A3220C864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250C6CB0-DAC4-45A1-924A-191A3220C864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
